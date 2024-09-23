@@ -20,3 +20,4 @@ example:
 ~/.zshrc
 
 ```
+![image_2024-09-22_22-24-30](https://github.com/user-attachments/assets/3fe7f57d-b5b5-48a3-a613-a16092466cf6)
