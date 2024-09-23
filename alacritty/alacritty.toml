@@ -1,0 +1,19 @@
+[font]
+size = 10.0
+
+[font.normal]
+family = "monospace"
+
+# Configurazione di esempio per Alacritty
+
+[window]
+# Imposta la trasparenza della finestra (valore tra 0.0 e 1.0)
+opacity = 1.0
+
+# Impostazioni per i colori
+[colors]
+  [colors.primary]
+  background = "#1e1e1e"  # Colore di sfondo
+  foreground = "#c0c5ce"  # Colore del testo
+
+
